@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="636d266d-7ba5-4f94-88e2-8351d9ac625a" name="cfc@CFC-WINDOWS 2013-12-06 23:39:40" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="50d6b290-6665-4b76-99b9-7ab9a45dd12e">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2013-12-06 23_39_40">
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NHibernate.4.0.0-Alpha1\lib\net40\NHibernate.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.SqlServerCe.1.6.8.0\lib\Net35\NDbUnit.SqlServerCe.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.Core.1.6.8.0\lib\Net35\NDbUnit.Core.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.SqlClient.1.6.8.0\lib\Net35\NDbUnit.SqlClient.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\MbUnit.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\Gallio40.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.SqlLite.1.6.8.0\lib\Net35\NDbUnit.SqlLite.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\Gallio.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\Selenium.Support.2.38.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\Selenium.WebDriver.2.38.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\MbUnit40.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\Iesi.Collections.4.0.1.4000\lib\net40\Iesi.Collections.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-06T23:39:40.1727908-02:00" queuing="2013-12-06T23:39:41.1068442-02:00" start="2013-12-06T23:39:41.1668477-02:00" finish="2013-12-06T23:39:51.3994330-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <GallioTestElement name="TestMethod1" storage="C:\Sedna\Dojo_Acceptance\DojoInterfaceApplication.Tests\bin\Debug\DojoInterfaceApplication.Tests.dll" id="31336263-3530-6637-6134-366263633164" d3p1:Gallio.TestId="cb31057fa46bcc1d" d3p1:Gallio.AssemblyName="DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1" d3p1:Gallio.TypeName="TestProject1.LoginAcceptanceTest" d3p1:Gallio.MemberName="TestMethod1" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Sedna\Dojo_Acceptance\DojoInterfaceApplication.Tests\LoginAcceptanceTest.cs" d3p1:Gallio.Line="21" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="f62dc152-f4f7-40ce-a620-09f26356065f" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="31336263-3530-6637-6134-366263633164" executionId="f62dc152-f4f7-40ce-a620-09f26356065f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <GallioTestResult executionId="f62dc152-f4f7-40ce-a620-09f26356065f" testId="31336263-3530-6637-6134-366263633164" testName="TestMethod1" computerName="CFC-WINDOWS" duration="00:00:06.6730000" startTime="2013-12-06T23:39:42.8739453-02:00" endTime="2013-12-06T23:39:49.5473270-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f62dc152-f4f7-40ce-a620-09f26356065f">
+      <Output>
+        <StdOut>NHibernate: select count(*) from SucessoLogin</StdOut>
+        <ErrorInfo>
+          <Message>Expected values to be equal.
+
+Expected Value : 2
+Actual Value   : 1
+
+   em TestProject1.LoginAcceptanceTest.TestMethod1() na C:\Sedna\Dojo_Acceptance\DojoInterfaceApplication.Tests\LoginAcceptanceTest.cs:linha 40
+</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+  </Results>
+</TestRun>

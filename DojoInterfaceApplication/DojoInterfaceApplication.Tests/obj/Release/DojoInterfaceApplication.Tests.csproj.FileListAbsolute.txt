@@ -1,0 +1,122 @@
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.xml
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.xml
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.pdb
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.xml
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.xml
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.xml
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.pdb
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.xml
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.xml
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.xml
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.xml
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Castle.Core.xml
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Ionic.Zip.xml
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\Newtonsoft.Json.xml
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\TurmaJaneiro\GitHub\TurmaDeFevereiro\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll.config
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.dll
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.Tests.pdb
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.dll
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.dll
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.dll
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\DojoInterfaceApplication.pdb
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.xml
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\bin\Release\WebDriver.Support.xml
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.dll
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\obj\Release\DojoInterfaceApplication.Tests.pdb

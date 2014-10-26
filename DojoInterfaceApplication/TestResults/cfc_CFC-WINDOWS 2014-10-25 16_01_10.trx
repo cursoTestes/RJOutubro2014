@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="12288e32-4f42-4119-8349-91e59bdb1539" name="cfc@CFC-WINDOWS 2014-10-25 16:01:10" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="6e18c730-d5fc-4595-884a-152cfe582660">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2014-10-25 16_01_10">
+      <DeploymentItem filename="C:\RJ\DojoInterfaceApplication\packages\Selenium.WebDriver.2.44.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll" />
+      <DeploymentItem filename="C:\RJ\DojoInterfaceApplication\packages\Selenium.Support.2.44.0\lib\net40\WebDriver.Support.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-10-25T16:01:10.3067903-02:00" queuing="2014-10-25T16:01:10.5267914-02:00" start="2014-10-25T16:01:10.5667921-02:00" finish="2014-10-25T16:01:19.0752234-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Retorna_Erro_quando_campo_id_vendedor_nao_numerico" storage="c:\rj\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="859540b0-1e90-5a1c-da3b-1ef73ac8c38a">
+      <Execution id="fb946490-51ee-49f0-a64c-9630739d20c1" />
+      <TestMethod codeBase="C:/RJ/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SeleniumTests.TesteValidacoes, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Retorna_Erro_quando_campo_id_vendedor_nao_numerico" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="859540b0-1e90-5a1c-da3b-1ef73ac8c38a" executionId="fb946490-51ee-49f0-a64c-9630739d20c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fb946490-51ee-49f0-a64c-9630739d20c1" testId="859540b0-1e90-5a1c-da3b-1ef73ac8c38a" testName="Retorna_Erro_quando_campo_id_vendedor_nao_numerico" computerName="CFC-WINDOWS" duration="00:00:07.9346669" startTime="2014-10-25T16:01:10.5692921-02:00" endTime="2014-10-25T16:01:19.0552223-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fb946490-51ee-49f0-a64c-9630739d20c1">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;http://localhost:58034/Venda/Add&gt;. Actual:&lt;http://localhost:58034/&gt;. </Message>
+          <StackTrace>   em SeleniumTests.TesteValidacoes.Retorna_Erro_quando_campo_id_vendedor_nao_numerico() na C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication.Tests\TesteValidacoes.cs:linha 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

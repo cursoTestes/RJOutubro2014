@@ -1,0 +1,54 @@
+[-0.000][INFO]:     ChromeDriver 26.0.1383.0 C:\bin\chromedriver.exe
+[1.138][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+      "args": [  ],
+      "detach": false,
+      "extensions": [  ]
+   },
+   "javascriptEnabled": true,
+   "platform": "ANY",
+   "version": ""
+}
+
+[1.138][INFO]:      Launching chrome: "C:\Users\cfc\AppData\Local\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
+[1.481][INFO]:      Connected to Chrome successfully. Version: 31.0.1650.63
+[1.499][FINE]:      Command received (/session/ac8e5ae35e07fdb7de63279fe2ab19d8)
+[1.499][FINE]:      Command finished (/session/ac8e5ae35e07fdb7de63279fe2ab19d8) with response {
+   "sessionId": "ac8e5ae35e07fdb7de63279fe2ab19d8",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "31.0.1650.63",
+      "webStorageEnabled": true
+   }
+}
+
+[1.587][FINE]:      Command received (/session/ac8e5ae35e07fdb7de63279fe2ab19d8/url) with params {
+   "url": "http://localhost:58034/Venda/Add"
+}
+
+[1.587][FINER]:     Waiting for all views to stop loading...
+[1.587][FINER]:     Done waiting for all views to stop loading
+[1.609][FINE]:      Command received (/session/ac8e5ae35e07fdb7de63279fe2ab19d8/element) with params {
+   "using": "id",
+   "value": "Vendedor"
+}
+
+[1.609][FINER]:     Waiting for all views to stop loading...
+[1.611][FINER]:     Done waiting for all views to stop loading
+[1.638][FINE]:      Command received (/session/ac8e5ae35e07fdb7de63279fe2ab19d8)
+[3.047][INFO]:      Chrome shutdown

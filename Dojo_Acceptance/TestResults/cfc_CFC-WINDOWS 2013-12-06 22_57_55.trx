@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="18b4533c-edb4-45c7-8c87-9ec21a762171" name="cfc@CFC-WINDOWS 2013-12-06 22:57:55" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="d8b09650-6ba8-4275-bc1c-08da3deeda80">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2013-12-06 22_57_55">
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NHibernate.4.0.0-Alpha1\lib\net40\NHibernate.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.SqlServerCe.1.6.8.0\lib\Net35\NDbUnit.SqlServerCe.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\MbUnit.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.Core.1.6.8.0\lib\Net35\NDbUnit.Core.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.SqlClient.1.6.8.0\lib\Net35\NDbUnit.SqlClient.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\Gallio40.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\NDbUnit.SqlLite.1.6.8.0\lib\Net35\NDbUnit.SqlLite.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\Gallio.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\Selenium.Support.2.38.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\Selenium.WebDriver.2.38.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\mbunit.3.3.454.0\lib\net40\MbUnit40.dll" />
+      <DeploymentItem filename="C:\Sedna\Dojo_Acceptance\packages\Iesi.Collections.4.0.1.4000\lib\net40\Iesi.Collections.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-06T22:57:55.2035148-02:00" queuing="2013-12-06T22:57:57.5666499-02:00" start="2013-12-06T22:57:57.6146527-02:00" finish="2013-12-06T22:57:59.9227847-02:00" />
+  <ResultSummary outcome="Aborted">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="1" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <GallioTestElement name="TestMethod1" storage="C:\Sedna\Dojo_Acceptance\DojoInterfaceApplication.Tests\bin\Debug\DojoInterfaceApplication.Tests.dll" id="31336263-3530-6637-6134-366263633164" d3p1:Gallio.TestId="cb31057fa46bcc1d" d3p1:Gallio.AssemblyName="DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1" d3p1:Gallio.TypeName="TestProject1.LoginAcceptanceTest" d3p1:Gallio.MemberName="TestMethod1" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\Sedna\Dojo_Acceptance\DojoInterfaceApplication.Tests\LoginAcceptanceTest.cs" d3p1:Gallio.Line="44" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="60756d55-0226-4bb6-8c88-ea956e6c491a" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="31336263-3530-6637-6134-366263633164" executionId="60756d55-0226-4bb6-8c88-ea956e6c491a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <GallioTestResult executionId="60756d55-0226-4bb6-8c88-ea956e6c491a" testId="31336263-3530-6637-6134-366263633164" testName="TestMethod1" computerName="CFC-WINDOWS" duration="00:00:02.2991315" startTime="2013-12-06T22:57:57.6236532-02:00" endTime="2013-12-06T22:57:59.9227847-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60756d55-0226-4bb6-8c88-ea956e6c491a">
+    </GallioTestResult>
+  </Results>
+</TestRun>

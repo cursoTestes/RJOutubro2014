@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="636d7cfd-98b5-49ac-8f3a-a4a752fb5aa2" name="cfc@CFC-WINDOWS 2014-10-25 12:23:43" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="47eddd5d-2f3a-4f42-bcf7-47766baa5ef0">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2014-10-25 12_23_43">
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Windsor.2.5.4\lib\net40\Castle.Windsor.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Castle.3.1.0.4000\lib\Net35\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Newtonsoft.Json.4.0.4\lib\net40\Newtonsoft.Json.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Facilities.NHibernateIntegration.1.1.0\lib\NET40\Castle.Facilities.NHibernateIntegration.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.SqlClient.1.6.8.0\lib\Net35\NDbUnit.SqlClient.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\FluentNHibernate.1.2.0.712\lib\FluentNHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\DotNetZip.1.9.1.8\lib\net20\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Core.2.5.2\lib\NET35\Castle.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.3.1.0.4000\lib\Net35\NHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.Support.2.17.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.Core.1.6.8.0\lib\Net35\NDbUnit.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Services.Transaction.2.5.0\lib\NET40\Castle.Services.Transaction.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.Mvc.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Linq.1.0\lib\NHibernate.Linq.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.WebDriver.2.17.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\log4net.1.2.11\lib\net40-full\log4net.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-10-25T12:23:43.7052875-02:00" queuing="2014-10-25T12:23:44.6231287-02:00" start="2014-10-25T12:23:44.6731316-02:00" finish="2014-10-25T12:23:47.6522680-02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <GallioTestElement name="NaoEstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="39386662-3636-6465-3762-646138656239" d3p1:Gallio.TestId="bf8966ed7bda8eb9" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteExclusaoProduto" d3p1:Gallio.MemberName="NaoEstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteExclusaoProduto.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="4063aa61-3280-4a2f-9b08-324cd3287b01" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="TemNomeCorreto" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="61636461-3738-6433-3132-383331313434" d3p1:Gallio.TestId="adca873d12831144" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="TemNomeCorreto" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="34" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="f683086f-7466-4ef9-9491-2ab78ecb4a79" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="NaoEhIgualAZero" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="37643634-3766-3465-3032-323030653834" d3p1:Gallio.TestId="46d7f7e402200e84" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="NaoEhIgualAZero" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="42" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="5f581286-beb5-4cdc-be81-0fa746e091e3" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_inexistente" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31326566-3431-3439-6631-326662393032" d3p1:Gallio.TestId="fe211494f12fb902" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_inexistente" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="27" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="df199325-61c0-48a0-b84e-8a0a60f92f4a" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_vendas_em_mais_de_1_ano" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="37323835-3766-6239-3332-343736356265" d3p1:Gallio.TestId="5827f79b324765be" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_vendas_em_mais_de_1_ano" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="62" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="0b4ada51-ff8c-4f40-8741-922cb2f7afab" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="ExisteNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="30393466-6234-6238-3934-393137663466" d3p1:Gallio.TestId="f4904b8b94917f4f" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="ExisteNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="24" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="a092995d-f17a-4b75-adb7-f9d7577bc4b1" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_duas_ou_mais_vendas_ano" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="30396361-3233-3436-6130-306463636639" d3p1:Gallio.TestId="ac903264a00dccf9" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_duas_ou_mais_vendas_ano" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="50" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="8b741043-614d-4404-9d54-1e867fc24de5" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_com_uma_venda" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="65633635-3633-3536-3937-313163643339" d3p1:Gallio.TestId="56ce36659711cd39" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_com_uma_venda" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="ea514d8a-7fed-43a4-847b-41c0e0aaea26" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="EstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31343639-6235-3730-3937-313936373661" d3p1:Gallio.TestId="96415b079719676a" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="EstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="48" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="ab0e02ae-b8cc-43bb-8ff5-78689bd7e517" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="30393466-6234-6238-3934-393137663466" executionId="a092995d-f17a-4b75-adb7-f9d7577bc4b1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30396361-3233-3436-6130-306463636639" executionId="8b741043-614d-4404-9d54-1e867fc24de5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31326566-3431-3439-6631-326662393032" executionId="df199325-61c0-48a0-b84e-8a0a60f92f4a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31343639-6235-3730-3937-313936373661" executionId="ab0e02ae-b8cc-43bb-8ff5-78689bd7e517" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37323835-3766-6239-3332-343736356265" executionId="0b4ada51-ff8c-4f40-8741-922cb2f7afab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37643634-3766-3465-3032-323030653834" executionId="5f581286-beb5-4cdc-be81-0fa746e091e3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39386662-3636-6465-3762-646138656239" executionId="4063aa61-3280-4a2f-9b08-324cd3287b01" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61636461-3738-6433-3132-383331313434" executionId="f683086f-7466-4ef9-9491-2ab78ecb4a79" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65633635-3633-3536-3937-313163643339" executionId="ea514d8a-7fed-43a4-847b-41c0e0aaea26" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <GallioTestResult executionId="a092995d-f17a-4b75-adb7-f9d7577bc4b1" testId="30393466-6234-6238-3934-393137663466" testName="ExisteNoBD" computerName="CFC-WINDOWS" duration="00:00:00.1400000" startTime="2014-10-25T12:23:47.0685091-02:00" endTime="2014-10-25T12:23:47.2097612-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a092995d-f17a-4b75-adb7-f9d7577bc4b1">
+      <Output>
+        <StdOut>NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="8b741043-614d-4404-9d54-1e867fc24de5" testId="30396361-3233-3436-6130-306463636639" testName="teste_consulta_vendedor_duas_ou_mais_vendas_ano" computerName="CFC-WINDOWS" duration="00:00:00.0270000" startTime="2014-10-25T12:23:47.5335162-02:00" endTime="2014-10-25T12:23:47.5497665-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b741043-614d-4404-9d54-1e867fc24de5">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 2 [Type: Int32 (0)], @p1 = 2012 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="df199325-61c0-48a0-b84e-8a0a60f92f4a" testId="31326566-3431-3439-6631-326662393032" testName="teste_consulta_vendedor_inexistente" computerName="CFC-WINDOWS" duration="00:00:00.0250000" startTime="2014-10-25T12:23:47.5610166-02:00" endTime="2014-10-25T12:23:47.5760169-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df199325-61c0-48a0-b84e-8a0a60f92f4a">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 0 [Type: Int32 (0)], @p1 = 2011 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="ab0e02ae-b8cc-43bb-8ff5-78689bd7e517" testId="31343639-6235-3730-3937-313936373661" testName="EstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0590000" startTime="2014-10-25T12:23:47.3497634-02:00" endTime="2014-10-25T12:23:47.3997642-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ab0e02ae-b8cc-43bb-8ff5-78689bd7e517">
+      <Output>
+        <StdOut>NHibernate: select NextHi from ProdutoId with (updlock, rowlock)
+NHibernate: update ProdutoId set NextHi = @p0 where NextHi = @p1;@p0 = 11 [Type: Int32 (0)], @p1 = 10 [Type: Int32 (0)]
+NHibernate: INSERT INTO [Produto] (Nome, Id) VALUES (@p0, @p1);@p0 = 'um' [Type: String (4000)], @p1 = 30 [Type: Int32 (0)]
+NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 30 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="0b4ada51-ff8c-4f40-8741-922cb2f7afab" testId="37323835-3766-6239-3332-343736356265" testName="teste_consulta_vendedor_vendas_em_mais_de_1_ano" computerName="CFC-WINDOWS" duration="00:00:00.0270000" startTime="2014-10-25T12:23:47.5885171-02:00" endTime="2014-10-25T12:23:47.6047673-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b4ada51-ff8c-4f40-8741-922cb2f7afab">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 3 [Type: Int32 (0)], @p1 = 2013 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="5f581286-beb5-4cdc-be81-0fa746e091e3" testId="37643634-3766-3465-3032-323030653834" testName="NaoEhIgualAZero" computerName="CFC-WINDOWS" duration="00:00:00.0390000" startTime="2014-10-25T12:23:47.4097643-02:00" endTime="2014-10-25T12:23:47.4397648-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f581286-beb5-4cdc-be81-0fa746e091e3">
+      <Output>
+        <StdOut>NHibernate: INSERT INTO [Produto] (Nome, Id) VALUES (@p0, @p1);@p0 = 'um' [Type: String (4000)], @p1 = 31 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="4063aa61-3280-4a2f-9b08-324cd3287b01" testId="39386662-3636-6465-3762-646138656239" testName="NaoEstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0750000" startTime="2014-10-25T12:23:47.2697622-02:00" endTime="2014-10-25T12:23:47.3372632-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4063aa61-3280-4a2f-9b08-324cd3287b01">
+      <Output>
+        <StdOut>NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]
+NHibernate: DELETE FROM [Produto] WHERE Id = @p0;@p0 = 1 [Type: Int32 (0)]
+NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="f683086f-7466-4ef9-9491-2ab78ecb4a79" testId="61636461-3738-6433-3132-383331313434" testName="TemNomeCorreto" computerName="CFC-WINDOWS" duration="00:00:00.0410000" startTime="2014-10-25T12:23:47.2172614-02:00" endTime="2014-10-25T12:23:47.2572620-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f683086f-7466-4ef9-9491-2ab78ecb4a79">
+      <Output>
+        <StdOut>NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="ea514d8a-7fed-43a4-847b-41c0e0aaea26" testId="65633635-3633-3536-3937-313163643339" testName="teste_consulta_vendedor_com_uma_venda" computerName="CFC-WINDOWS" duration="00:00:00.0780000" startTime="2014-10-25T12:23:47.4535150-02:00" endTime="2014-10-25T12:23:47.5222660-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ea514d8a-7fed-43a4-847b-41c0e0aaea26">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 1 [Type: Int32 (0)], @p1 = 2011 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+  </Results>
+</TestRun>

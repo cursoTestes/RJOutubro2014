@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="796c3f97-68f0-4a35-aba0-bfa29bc70738" name="cfc@CFC-WINDOWS 2013-12-06 21:42:50" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="5d084ccd-fe4b-457c-8bca-3cc4d9fa1cca">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2013-12-06 21_42_50">
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\packages\Selenium.Support.2.31.2\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\packages\Selenium.WebDriver.2.31.2\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-06T21:42:50.8048061-02:00" queuing="2013-12-06T21:42:51.0018174-02:00" start="2013-12-06T21:42:51.0398196-02:00" finish="2013-12-06T21:42:59.6136843-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Retorna_Erro_quando_idVendedor_for_alfa" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="4efe432a-2894-519c-3099-a424775a01c7">
+      <Execution id="3b9ae2d7-1a30-422f-aa6c-6d4ca807633f" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SeleniumTests.TesteValidacoes, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Retorna_Erro_quando_idVendedor_for_alfa" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4efe432a-2894-519c-3099-a424775a01c7" executionId="3b9ae2d7-1a30-422f-aa6c-6d4ca807633f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3b9ae2d7-1a30-422f-aa6c-6d4ca807633f" testId="4efe432a-2894-519c-3099-a424775a01c7" testName="Retorna_Erro_quando_idVendedor_for_alfa" computerName="CFC-WINDOWS" duration="00:00:07.9887463" startTime="2013-12-06T21:42:51.0488201-02:00" endTime="2013-12-06T21:42:59.5200841-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3b9ae2d7-1a30-422f-aa6c-6d4ca807633f">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method SeleniumTests.TesteValidacoes.Retorna_Erro_quando_idVendedor_for_alfa threw exception: 
+System.InvalidOperationException: Unknown command 'WaitForAllTabsToStopLoading'. Options: AcceptOrDismissAppModalDialog, ActionOnSSLBlockingPage, ActivateTab, AddBookmark, AddDomEventObserver, AppendTab, ApplyAccelerator, BringBrowserToFront, ClearEventQueue, CloseBrowserWindow, CloseTab, CreateNewAutomationProvider, DeleteCookie, DeleteCookieInBrowserContext, DoesAutomationObjectExist, DragAndDropFilePaths, ExecuteJavascript, ExecuteJavascriptInRenderView, GetActiveTabIndex, GetAppModalDialogMessage, GetBookmarkBarStatus, GetBookmarksAsJSON, GetBrowserInfo, GetBrowserWindowCount, GetChromeDriverAutomationVersion, GetCookies, GetCookiesInBrowserContext, GetDownloadDirectory, GetExtensionsInfo, GetIndicesFromTab, GetLocalStatePrefsInfo, GetMultiProfileInfo, GetNextEvent, GetPrefsInfo, GetProcessInfo, GetSecurityState, GetTabCount, GetTabIds, GetTabInfo, GetViews, GoBack, GoForward, InstallExtension, IsDownloadShelfVisible, IsFindInPageVisible, IsMenuCommandEnabled, IsPageActionVisible, IsTabIdValid, MaximizeView, NavigateToURL, OpenFindInPage, OpenNewBrowserWindow, OpenNewBrowserWindowWithNewProfile, OpenProfileWindow, OverrideGeoposition, RefreshPolicies, Reload, RemoveBookmark, RemoveEventObserver, ReparentBookmark, RunCommand, SendWebkitKeyEvent, SetBookmarkTitle, SetBookmarkURL, SetCookie, SetCookieInBrowserContext, SetDownloadShelfVisible, SetExtensionStateById, SetLocalStatePrefs, SetPrefs, SetViewBounds, SimulateAsanMemoryBug, TriggerBrowserActionById, TriggerPageActionById, UninstallExtensionById, UpdateExtensionsNow, WaitForBookmarkModelToLoad, WaitUntilNavigationCompletes, WebkitMouseButtonDown, WebkitMouseButtonUp, WebkitMouseClick, WebkitMouseDoubleClick, WebkitMouseDrag, WebkitMouseMove, AcceptCurrentFullscreenOrMouseLockRequest, AddOrEditSearchEngine, AddSavedPassword, CloseNotification, DenyCurrentFullscreenOrMouseLockRequest, DisablePlugin, EnablePlugin, FindInPage, GetAllNotifications, GetDownloadsInfo, GetFPS, GetHistoryInfo, GetInitialLoadTimes, GetNTPInfo, GetNavigationInfo, GetOmniboxInfo, GetPluginsInfo, GetSavedPasswords, GetSearchEngineInfo, GetV8HeapStats, IsFullscreenBubbleDisplayed, IsFullscreenBubbleDisplayingButtons, IsFullscreenForBrowser, IsFullscreenForTab, IsFullscreenPermissionRequested, IsMouseLockPermissionRequested, IsMouseLocked, KillRendererProcess, LaunchApp, LoadSearchEngineInfo, OmniboxAcceptInput, OmniboxMovePopupSelection, PerformActionOnDownload, PerformActionOnInfobar, PerformActionOnSearchEngine, RemoveNTPMostVisitedThumbnail, RemoveSavedPassword, RestoreAllNTPMostVisitedThumbnails, SaveTabContents, SetAppLaunchType, SetOmniboxText, SetWindowDimensions, WaitForAllDownloadsToComplete, WaitForNotificationCount, </Message>
+          <StackTrace>    em OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   em OpenQA.Selenium.By.&lt;&gt;c__DisplayClass2.&lt;Id&gt;b__0(ISearchContext context)
+   em OpenQA.Selenium.By.FindElement(ISearchContext context)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   em SeleniumTests.TesteValidacoes.Retorna_Erro_quando_idVendedor_for_alfa() na C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\TesteValidacoes.cs:linha 23
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

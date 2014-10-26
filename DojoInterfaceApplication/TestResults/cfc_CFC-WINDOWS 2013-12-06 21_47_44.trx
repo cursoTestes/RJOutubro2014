@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="43fd3a5e-83a3-4588-909a-ea439daebb0b" name="cfc@CFC-WINDOWS 2013-12-06 21:47:44" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="1e6d8fa9-7ff0-400f-8d52-cbdd0c32ee29">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2013-12-06 21_47_44">
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll" />
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\packages\Selenium.WebDriver.2.38.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\packages\Selenium.Support.2.38.0\lib\net40\WebDriver.Support.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-06T21:47:44.1892108-02:00" queuing="2013-12-06T21:47:44.6066183-02:00" start="2013-12-06T21:47:44.6534184-02:00" finish="2013-12-06T21:47:50.0721199-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="18" executed="18" passed="16" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="LogOn_Get_ReturnsView" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="142cdcfd-0ccf-00a9-cc49-0c360b8bd921">
+      <Execution id="f2fe4418-4a9b-4504-b87a-cd7ddbdf682b" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LogOn_Get_ReturnsView" />
+    </UnitTest>
+    <UnitTest name="LogOn_Post_ReturnsRedirectOnSuccess_WithoutReturnUrl" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="6636e3fb-e261-0687-6814-a40f8f82cc6a">
+      <Execution id="4baf8248-1a22-4168-a624-b776d3e56200" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LogOn_Post_ReturnsRedirectOnSuccess_WithoutReturnUrl" />
+    </UnitTest>
+    <UnitTest name="LogOff_LogsOutAndRedirects" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="f491a977-fe2d-0a77-aca5-25e012322aff">
+      <Execution id="c03a92ca-ef33-4f6a-a47f-95a35d87aec5" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LogOff_LogsOutAndRedirects" />
+    </UnitTest>
+    <UnitTest name="Register_Get_ReturnsView" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="44661c57-6dfc-66ad-17aa-975297c98c84">
+      <Execution id="c1167bc9-ba07-488d-95f1-1acc1b0fcc6e" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Register_Get_ReturnsView" />
+    </UnitTest>
+    <UnitTest name="Register_Post_ReturnsViewIfModelStateIsInvalid" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="d9be58a0-5971-0096-9697-dedb64d80b35">
+      <Execution id="c550e1d4-cfe9-42ff-829a-228c7e52e653" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Register_Post_ReturnsViewIfModelStateIsInvalid" />
+    </UnitTest>
+    <UnitTest name="Register_Post_ReturnsViewIfRegistrationFails" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="b119bad1-e0ad-d5e7-6ab2-c77a8b252d14">
+      <Execution id="25df87b4-8319-4bc0-9e76-0bc2f5a39089" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Register_Post_ReturnsViewIfRegistrationFails" />
+    </UnitTest>
+    <UnitTest name="LogOn_Post_ReturnsViewIfValidateUserFails" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="bb5feb2e-c4be-09f1-6a2f-1f5dbaa2ff8b">
+      <Execution id="02115239-09f4-472e-b913-2d9c2339f2bb" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LogOn_Post_ReturnsViewIfValidateUserFails" />
+    </UnitTest>
+    <UnitTest name="LogOn_Post_ReturnsViewIfModelStateIsInvalid" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="a0d13992-9142-726f-e7eb-b3bf5c5d15ce">
+      <Execution id="a4f9a345-d860-4db5-b2e5-ef91de4dd1ee" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LogOn_Post_ReturnsViewIfModelStateIsInvalid" />
+    </UnitTest>
+    <UnitTest name="About" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="995d5285-b062-2b9f-9217-85227074bf30">
+      <Execution id="0918f50c-8329-4804-bf8c-dfe601857630" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.HomeControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+    <UnitTest name="Register_Post_ReturnsRedirectOnSuccess" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="03fd7671-b56b-20bd-1546-9c3a23b342f0">
+      <Execution id="f563b276-f05c-4333-8a69-eca24a2c51d8" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Register_Post_ReturnsRedirectOnSuccess" />
+    </UnitTest>
+    <UnitTest name="ChangePassword_Get_ReturnsView" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="d8fc6ed0-efda-6664-babe-107d703d232b">
+      <Execution id="35365f78-3696-4c83-b1fd-5b083287fc18" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangePassword_Get_ReturnsView" />
+    </UnitTest>
+    <UnitTest name="ChangePasswordSuccess_ReturnsView" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="0a358c90-98d4-b6cf-ba34-f68ac37f6e24">
+      <Execution id="96050768-bc74-4eb1-9276-de5addd1fcfa" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangePasswordSuccess_ReturnsView" />
+    </UnitTest>
+    <UnitTest name="Index" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="d057e1f7-bd14-a4d3-a207-4353a3135df3">
+      <Execution id="472383e4-7b3d-4db2-9a41-3c6041427fde" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.HomeControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="Retorna_Erro_quando_idVendedor_for_alfa" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="4efe432a-2894-519c-3099-a424775a01c7">
+      <Execution id="d3322b7b-b6c6-4720-ab54-7f406247bc9c" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SeleniumTests.TesteValidacoes, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Retorna_Erro_quando_idVendedor_for_alfa" />
+    </UnitTest>
+    <UnitTest name="ChangePassword_Post_ReturnsViewIfModelStateIsInvalid" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="df78c223-266d-29a7-8f13-d4e0ab3a9b33">
+      <Execution id="97e30e6b-c480-4e89-8ef0-af46999f8016" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangePassword_Post_ReturnsViewIfModelStateIsInvalid" />
+    </UnitTest>
+    <UnitTest name="ChangePassword_Post_ReturnsViewIfChangePasswordFails" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="f2e81b66-970e-72fa-339f-62f516a6d647">
+      <Execution id="fea64e21-025e-4c7d-bc90-4aa8b84dd03d" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangePassword_Post_ReturnsViewIfChangePasswordFails" />
+    </UnitTest>
+    <UnitTest name="ChangePassword_Post_ReturnsRedirectOnSuccess" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="b83d12d6-733d-76b1-0e4f-cb3574321336">
+      <Execution id="2483a87c-d55f-4d17-8210-1d4fcd83dccc" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangePassword_Post_ReturnsRedirectOnSuccess" />
+    </UnitTest>
+    <UnitTest name="LogOn_Post_ReturnsRedirectOnSuccess_WithReturnUrl" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="53c51367-a902-d0de-4141-45af555f03c9">
+      <Execution id="99636568-4f67-4730-a976-06199927e881" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DojoInterfaceApplication.Tests.Controllers.AccountControllerTest, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LogOn_Post_ReturnsRedirectOnSuccess_WithReturnUrl" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="03fd7671-b56b-20bd-1546-9c3a23b342f0" executionId="f563b276-f05c-4333-8a69-eca24a2c51d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0a358c90-98d4-b6cf-ba34-f68ac37f6e24" executionId="96050768-bc74-4eb1-9276-de5addd1fcfa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="142cdcfd-0ccf-00a9-cc49-0c360b8bd921" executionId="f2fe4418-4a9b-4504-b87a-cd7ddbdf682b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="44661c57-6dfc-66ad-17aa-975297c98c84" executionId="c1167bc9-ba07-488d-95f1-1acc1b0fcc6e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4efe432a-2894-519c-3099-a424775a01c7" executionId="d3322b7b-b6c6-4720-ab54-7f406247bc9c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="53c51367-a902-d0de-4141-45af555f03c9" executionId="99636568-4f67-4730-a976-06199927e881" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6636e3fb-e261-0687-6814-a40f8f82cc6a" executionId="4baf8248-1a22-4168-a624-b776d3e56200" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="995d5285-b062-2b9f-9217-85227074bf30" executionId="0918f50c-8329-4804-bf8c-dfe601857630" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a0d13992-9142-726f-e7eb-b3bf5c5d15ce" executionId="a4f9a345-d860-4db5-b2e5-ef91de4dd1ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b119bad1-e0ad-d5e7-6ab2-c77a8b252d14" executionId="25df87b4-8319-4bc0-9e76-0bc2f5a39089" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b83d12d6-733d-76b1-0e4f-cb3574321336" executionId="2483a87c-d55f-4d17-8210-1d4fcd83dccc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bb5feb2e-c4be-09f1-6a2f-1f5dbaa2ff8b" executionId="02115239-09f4-472e-b913-2d9c2339f2bb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d057e1f7-bd14-a4d3-a207-4353a3135df3" executionId="472383e4-7b3d-4db2-9a41-3c6041427fde" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8fc6ed0-efda-6664-babe-107d703d232b" executionId="35365f78-3696-4c83-b1fd-5b083287fc18" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9be58a0-5971-0096-9697-dedb64d80b35" executionId="c550e1d4-cfe9-42ff-829a-228c7e52e653" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df78c223-266d-29a7-8f13-d4e0ab3a9b33" executionId="97e30e6b-c480-4e89-8ef0-af46999f8016" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2e81b66-970e-72fa-339f-62f516a6d647" executionId="fea64e21-025e-4c7d-bc90-4aa8b84dd03d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f491a977-fe2d-0a77-aca5-25e012322aff" executionId="c03a92ca-ef33-4f6a-a47f-95a35d87aec5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f563b276-f05c-4333-8a69-eca24a2c51d8" testId="03fd7671-b56b-20bd-1546-9c3a23b342f0" testName="Register_Post_ReturnsRedirectOnSuccess" computerName="CFC-WINDOWS" duration="00:00:00.0152669" startTime="2013-12-06T21:47:44.6534184-02:00" endTime="2013-12-06T21:47:45.1526192-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f563b276-f05c-4333-8a69-eca24a2c51d8">
+    </UnitTestResult>
+    <UnitTestResult executionId="96050768-bc74-4eb1-9276-de5addd1fcfa" testId="0a358c90-98d4-b6cf-ba34-f68ac37f6e24" testName="ChangePasswordSuccess_ReturnsView" computerName="CFC-WINDOWS" duration="00:00:00.0002913" startTime="2013-12-06T21:47:45.1526192-02:00" endTime="2013-12-06T21:47:45.1526192-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96050768-bc74-4eb1-9276-de5addd1fcfa">
+    </UnitTestResult>
+    <UnitTestResult executionId="f2fe4418-4a9b-4504-b87a-cd7ddbdf682b" testId="142cdcfd-0ccf-00a9-cc49-0c360b8bd921" testName="LogOn_Get_ReturnsView" computerName="CFC-WINDOWS" duration="00:00:00.0002694" startTime="2013-12-06T21:47:45.1526192-02:00" endTime="2013-12-06T21:47:45.1682193-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f2fe4418-4a9b-4504-b87a-cd7ddbdf682b">
+    </UnitTestResult>
+    <UnitTestResult executionId="c1167bc9-ba07-488d-95f1-1acc1b0fcc6e" testId="44661c57-6dfc-66ad-17aa-975297c98c84" testName="Register_Get_ReturnsView" computerName="CFC-WINDOWS" duration="00:00:00.0012375" startTime="2013-12-06T21:47:45.1682193-02:00" endTime="2013-12-06T21:47:45.1682193-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1167bc9-ba07-488d-95f1-1acc1b0fcc6e">
+    </UnitTestResult>
+    <UnitTestResult executionId="d3322b7b-b6c6-4720-ab54-7f406247bc9c" testId="4efe432a-2894-519c-3099-a424775a01c7" testName="Retorna_Erro_quando_idVendedor_for_alfa" computerName="CFC-WINDOWS" duration="00:00:04.7741007" startTime="2013-12-06T21:47:45.1682193-02:00" endTime="2013-12-06T21:47:49.9473196-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3322b7b-b6c6-4720-ab54-7f406247bc9c">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method SeleniumTests.TesteValidacoes.Retorna_Erro_quando_idVendedor_for_alfa threw exception: 
+System.InvalidOperationException: Unknown command 'WaitForAllTabsToStopLoading'. Options: AcceptOrDismissAppModalDialog, ActionOnSSLBlockingPage, ActivateTab, AddBookmark, AddDomEventObserver, AppendTab, ApplyAccelerator, BringBrowserToFront, ClearEventQueue, CloseBrowserWindow, CloseTab, CreateNewAutomationProvider, DeleteCookie, DeleteCookieInBrowserContext, DoesAutomationObjectExist, DragAndDropFilePaths, ExecuteJavascript, ExecuteJavascriptInRenderView, GetActiveTabIndex, GetAppModalDialogMessage, GetBookmarkBarStatus, GetBookmarksAsJSON, GetBrowserInfo, GetBrowserWindowCount, GetChromeDriverAutomationVersion, GetCookies, GetCookiesInBrowserContext, GetDownloadDirectory, GetExtensionsInfo, GetIndicesFromTab, GetLocalStatePrefsInfo, GetMultiProfileInfo, GetNextEvent, GetPrefsInfo, GetProcessInfo, GetSecurityState, GetTabCount, GetTabIds, GetTabInfo, GetViews, GoBack, GoForward, InstallExtension, IsDownloadShelfVisible, IsFindInPageVisible, IsMenuCommandEnabled, IsPageActionVisible, IsTabIdValid, MaximizeView, NavigateToURL, OpenFindInPage, OpenNewBrowserWindow, OpenNewBrowserWindowWithNewProfile, OpenProfileWindow, OverrideGeoposition, RefreshPolicies, Reload, RemoveBookmark, RemoveEventObserver, ReparentBookmark, RunCommand, SendWebkitKeyEvent, SetBookmarkTitle, SetBookmarkURL, SetCookie, SetCookieInBrowserContext, SetDownloadShelfVisible, SetExtensionStateById, SetLocalStatePrefs, SetPrefs, SetViewBounds, SimulateAsanMemoryBug, TriggerBrowserActionById, TriggerPageActionById, UninstallExtensionById, UpdateExtensionsNow, WaitForBookmarkModelToLoad, WaitUntilNavigationCompletes, WebkitMouseButtonDown, WebkitMouseButtonUp, WebkitMouseClick, WebkitMouseDoubleClick, WebkitMouseDrag, WebkitMouseMove, AcceptCurrentFullscreenOrMouseLockRequest, AddOrEditSearchEngine, AddSavedPassword, CloseNotification, DenyCurrentFullscreenOrMouseLockRequest, DisablePlugin, EnablePlugin, FindInPage, GetAllNotifications, GetDownloadsInfo, GetFPS, GetHistoryInfo, GetInitialLoadTimes, GetNTPInfo, GetNavigationInfo, GetOmniboxInfo, GetPluginsInfo, GetSavedPasswords, GetSearchEngineInfo, GetV8HeapStats, IsFullscreenBubbleDisplayed, IsFullscreenBubbleDisplayingButtons, IsFullscreenForBrowser, IsFullscreenForTab, IsFullscreenPermissionRequested, IsMouseLockPermissionRequested, IsMouseLocked, KillRendererProcess, LaunchApp, LoadSearchEngineInfo, OmniboxAcceptInput, OmniboxMovePopupSelection, PerformActionOnDownload, PerformActionOnInfobar, PerformActionOnSearchEngine, RemoveNTPMostVisitedThumbnail, RemoveSavedPassword, RestoreAllNTPMostVisitedThumbnails, SaveTabContents, SetAppLaunchType, SetOmniboxText, SetWindowDimensions, WaitForAllDownloadsToComplete, WaitForNotificationCount, </Message>
+          <StackTrace>    em OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   em OpenQA.Selenium.By.&lt;&gt;c__DisplayClass2.&lt;Id&gt;b__0(ISearchContext context)
+   em OpenQA.Selenium.By.FindElement(ISearchContext context)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   em SeleniumTests.TesteValidacoes.Retorna_Erro_quando_idVendedor_for_alfa() na C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\TesteValidacoes.cs:linha 23
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="99636568-4f67-4730-a976-06199927e881" testId="53c51367-a902-d0de-4141-45af555f03c9" testName="LogOn_Post_ReturnsRedirectOnSuccess_WithReturnUrl" computerName="CFC-WINDOWS" duration="00:00:00.0018664" startTime="2013-12-06T21:47:49.9629197-02:00" endTime="2013-12-06T21:47:49.9629197-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="99636568-4f67-4730-a976-06199927e881">
+    </UnitTestResult>
+    <UnitTestResult executionId="4baf8248-1a22-4168-a624-b776d3e56200" testId="6636e3fb-e261-0687-6814-a40f8f82cc6a" testName="LogOn_Post_ReturnsRedirectOnSuccess_WithoutReturnUrl" computerName="CFC-WINDOWS" duration="00:00:00.0007472" startTime="2013-12-06T21:47:49.9629197-02:00" endTime="2013-12-06T21:47:49.9785197-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4baf8248-1a22-4168-a624-b776d3e56200">
+    </UnitTestResult>
+    <UnitTestResult executionId="0918f50c-8329-4804-bf8c-dfe601857630" testId="995d5285-b062-2b9f-9217-85227074bf30" testName="About" computerName="CFC-WINDOWS" duration="00:00:00.0005284" startTime="2013-12-06T21:47:49.9785197-02:00" endTime="2013-12-06T21:47:49.9785197-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0918f50c-8329-4804-bf8c-dfe601857630">
+    </UnitTestResult>
+    <UnitTestResult executionId="a4f9a345-d860-4db5-b2e5-ef91de4dd1ee" testId="a0d13992-9142-726f-e7eb-b3bf5c5d15ce" testName="LogOn_Post_ReturnsViewIfModelStateIsInvalid" computerName="CFC-WINDOWS" duration="00:00:00.0008286" startTime="2013-12-06T21:47:49.9785197-02:00" endTime="2013-12-06T21:47:49.9941197-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a4f9a345-d860-4db5-b2e5-ef91de4dd1ee">
+    </UnitTestResult>
+    <UnitTestResult executionId="25df87b4-8319-4bc0-9e76-0bc2f5a39089" testId="b119bad1-e0ad-d5e7-6ab2-c77a8b252d14" testName="Register_Post_ReturnsViewIfRegistrationFails" computerName="CFC-WINDOWS" duration="00:00:00.0013007" startTime="2013-12-06T21:47:49.9941197-02:00" endTime="2013-12-06T21:47:49.9941197-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="25df87b4-8319-4bc0-9e76-0bc2f5a39089">
+    </UnitTestResult>
+    <UnitTestResult executionId="2483a87c-d55f-4d17-8210-1d4fcd83dccc" testId="b83d12d6-733d-76b1-0e4f-cb3574321336" testName="ChangePassword_Post_ReturnsRedirectOnSuccess" computerName="CFC-WINDOWS" duration="00:00:00.0016034" startTime="2013-12-06T21:47:49.9941197-02:00" endTime="2013-12-06T21:47:50.0097197-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2483a87c-d55f-4d17-8210-1d4fcd83dccc">
+    </UnitTestResult>
+    <UnitTestResult executionId="02115239-09f4-472e-b913-2d9c2339f2bb" testId="bb5feb2e-c4be-09f1-6a2f-1f5dbaa2ff8b" testName="LogOn_Post_ReturnsViewIfValidateUserFails" computerName="CFC-WINDOWS" duration="00:00:00.0008537" startTime="2013-12-06T21:47:50.0097197-02:00" endTime="2013-12-06T21:47:50.0097197-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="02115239-09f4-472e-b913-2d9c2339f2bb">
+    </UnitTestResult>
+    <UnitTestResult executionId="472383e4-7b3d-4db2-9a41-3c6041427fde" testId="d057e1f7-bd14-a4d3-a207-4353a3135df3" testName="Index" computerName="CFC-WINDOWS" duration="00:00:00.0068611" startTime="2013-12-06T21:47:50.0097197-02:00" endTime="2013-12-06T21:47:50.0253198-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="472383e4-7b3d-4db2-9a41-3c6041427fde">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Welcome to ASP.NET MVC!&gt;. Actual:&lt;Bem-vindos ao Dojo de Interface, usando o wizard de projeto do VS2010&gt;. </Message>
+          <StackTrace>   em DojoInterfaceApplication.Tests.Controllers.HomeControllerTest.Index() na C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\Controllers\HomeControllerTest.cs:linha 26
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="35365f78-3696-4c83-b1fd-5b083287fc18" testId="d8fc6ed0-efda-6664-babe-107d703d232b" testName="ChangePassword_Get_ReturnsView" computerName="CFC-WINDOWS" duration="00:00:00.0008063" startTime="2013-12-06T21:47:50.0253198-02:00" endTime="2013-12-06T21:47:50.0253198-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35365f78-3696-4c83-b1fd-5b083287fc18">
+    </UnitTestResult>
+    <UnitTestResult executionId="c550e1d4-cfe9-42ff-829a-228c7e52e653" testId="d9be58a0-5971-0096-9697-dedb64d80b35" testName="Register_Post_ReturnsViewIfModelStateIsInvalid" computerName="CFC-WINDOWS" duration="00:00:00.0010628" startTime="2013-12-06T21:47:50.0253198-02:00" endTime="2013-12-06T21:47:50.0409198-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c550e1d4-cfe9-42ff-829a-228c7e52e653">
+    </UnitTestResult>
+    <UnitTestResult executionId="97e30e6b-c480-4e89-8ef0-af46999f8016" testId="df78c223-266d-29a7-8f13-d4e0ab3a9b33" testName="ChangePassword_Post_ReturnsViewIfModelStateIsInvalid" computerName="CFC-WINDOWS" duration="00:00:00.0010491" startTime="2013-12-06T21:47:50.0409198-02:00" endTime="2013-12-06T21:47:50.0409198-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="97e30e6b-c480-4e89-8ef0-af46999f8016">
+    </UnitTestResult>
+    <UnitTestResult executionId="fea64e21-025e-4c7d-bc90-4aa8b84dd03d" testId="f2e81b66-970e-72fa-339f-62f516a6d647" testName="ChangePassword_Post_ReturnsViewIfChangePasswordFails" computerName="CFC-WINDOWS" duration="00:00:00.0010657" startTime="2013-12-06T21:47:50.0409198-02:00" endTime="2013-12-06T21:47:50.0565198-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fea64e21-025e-4c7d-bc90-4aa8b84dd03d">
+    </UnitTestResult>
+    <UnitTestResult executionId="c03a92ca-ef33-4f6a-a47f-95a35d87aec5" testId="f491a977-fe2d-0a77-aca5-25e012322aff" testName="LogOff_LogsOutAndRedirects" computerName="CFC-WINDOWS" duration="00:00:00.0007897" startTime="2013-12-06T21:47:50.0565198-02:00" endTime="2013-12-06T21:47:50.0565198-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c03a92ca-ef33-4f6a-a47f-95a35d87aec5">
+    </UnitTestResult>
+  </Results>
+</TestRun>

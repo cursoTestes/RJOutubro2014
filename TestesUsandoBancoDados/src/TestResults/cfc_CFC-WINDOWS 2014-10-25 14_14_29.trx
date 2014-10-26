@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f91a39d6-2cf7-44c7-b369-2cfb17365eee" name="cfc@CFC-WINDOWS 2014-10-25 14:14:29" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="e3a9eb40-7f69-45d2-a30a-3991447ca62e">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2014-10-25 14_14_29">
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Windsor.2.5.4\lib\net40\Castle.Windsor.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Castle.3.1.0.4000\lib\Net35\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Newtonsoft.Json.4.0.4\lib\net40\Newtonsoft.Json.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Facilities.NHibernateIntegration.1.1.0\lib\NET40\Castle.Facilities.NHibernateIntegration.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.SqlClient.1.6.8.0\lib\Net35\NDbUnit.SqlClient.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\FluentNHibernate.1.2.0.712\lib\FluentNHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\DotNetZip.1.9.1.8\lib\net20\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Core.2.5.2\lib\NET35\Castle.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.3.1.0.4000\lib\Net35\NHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.Support.2.17.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.Core.1.6.8.0\lib\Net35\NDbUnit.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Services.Transaction.2.5.0\lib\NET40\Castle.Services.Transaction.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.Mvc.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Linq.1.0\lib\NHibernate.Linq.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.WebDriver.2.17.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\log4net.1.2.11\lib\net40-full\log4net.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-10-25T14:14:29.3336902-02:00" queuing="2014-10-25T14:14:29.8447036-02:00" start="2014-10-25T14:14:29.8847036-02:00" finish="2014-10-25T14:14:33.1997369-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="9" executed="9" passed="5" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <GallioTestElement name="NaoEstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="39386662-3636-6465-3762-646138656239" d3p1:Gallio.TestId="bf8966ed7bda8eb9" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteExclusaoProduto" d3p1:Gallio.MemberName="NaoEstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteExclusaoProduto.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="37ae8464-8c2a-4fb0-b077-a2f692a17082" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="TemNomeCorreto" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="61636461-3738-6433-3132-383331313434" d3p1:Gallio.TestId="adca873d12831144" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="TemNomeCorreto" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="34" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="41dcfbdb-d6ca-4e86-8339-79ae981ac1f8" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="NaoEhIgualAZero" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="37643634-3766-3465-3032-323030653834" d3p1:Gallio.TestId="46d7f7e402200e84" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="NaoEhIgualAZero" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="42" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="52a1c9c0-6316-45ef-b13d-c31ae2bc43d6" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_inexistente" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31326566-3431-3439-6631-326662393032" d3p1:Gallio.TestId="fe211494f12fb902" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_inexistente" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="27" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="80d1f33d-3cbf-4014-b490-bc08282fa78b" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_vendas_em_mais_de_1_ano" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="37323835-3766-6239-3332-343736356265" d3p1:Gallio.TestId="5827f79b324765be" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_vendas_em_mais_de_1_ano" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="62" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="ede97f6f-ff79-4de6-bb22-a4b95403d03c" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="ExisteNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="30393466-6234-6238-3934-393137663466" d3p1:Gallio.TestId="f4904b8b94917f4f" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="ExisteNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="24" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="7fafbead-7842-4e8f-ac9f-a0584d001941" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_duas_ou_mais_vendas_ano" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="30396361-3233-3436-6130-306463636639" d3p1:Gallio.TestId="ac903264a00dccf9" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_duas_ou_mais_vendas_ano" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="50" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="e0e645c0-af9d-4f24-bab5-4ecae349d87a" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_com_uma_venda" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="65633635-3633-3536-3937-313163643339" d3p1:Gallio.TestId="56ce36659711cd39" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_com_uma_venda" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="562a63b4-b24a-4d74-add9-ce84f7c0575c" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="EstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31343639-6235-3730-3937-313936373661" d3p1:Gallio.TestId="96415b079719676a" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="EstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="48" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="162d746f-0173-45aa-a4c7-df067638eeb5" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="30393466-6234-6238-3934-393137663466" executionId="7fafbead-7842-4e8f-ac9f-a0584d001941" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30396361-3233-3436-6130-306463636639" executionId="e0e645c0-af9d-4f24-bab5-4ecae349d87a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31326566-3431-3439-6631-326662393032" executionId="80d1f33d-3cbf-4014-b490-bc08282fa78b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31343639-6235-3730-3937-313936373661" executionId="162d746f-0173-45aa-a4c7-df067638eeb5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37323835-3766-6239-3332-343736356265" executionId="ede97f6f-ff79-4de6-bb22-a4b95403d03c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37643634-3766-3465-3032-323030653834" executionId="52a1c9c0-6316-45ef-b13d-c31ae2bc43d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39386662-3636-6465-3762-646138656239" executionId="37ae8464-8c2a-4fb0-b077-a2f692a17082" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61636461-3738-6433-3132-383331313434" executionId="41dcfbdb-d6ca-4e86-8339-79ae981ac1f8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65633635-3633-3536-3937-313163643339" executionId="562a63b4-b24a-4d74-add9-ce84f7c0575c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <GallioTestResult executionId="7fafbead-7842-4e8f-ac9f-a0584d001941" testId="30393466-6234-6238-3934-393137663466" testName="ExisteNoBD" computerName="CFC-WINDOWS" duration="00:00:00.1710000" startTime="2014-10-25T14:14:32.2297356-02:00" endTime="2014-10-25T14:14:32.3997358-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7fafbead-7842-4e8f-ac9f-a0584d001941">
+      <Output>
+        <StdOut>NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="e0e645c0-af9d-4f24-bab5-4ecae349d87a" testId="30396361-3233-3436-6130-306463636639" testName="teste_consulta_vendedor_duas_ou_mais_vendas_ano" computerName="CFC-WINDOWS" duration="00:00:00.0790000" startTime="2014-10-25T14:14:32.9397366-02:00" endTime="2014-10-25T14:14:33.0097367-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e0e645c0-af9d-4f24-bab5-4ecae349d87a">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 2 [Type: Int32 (0)], @p1 = 2012 [Type: Int32 (0)]</StdOut>
+        <ErrorInfo>
+          <Message>Execute
+NHibernate.Exceptions.GenericADOException: could not execute query
+[ select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1 ]
+  Name:idVendedor - Value:2  Name:ano - Value:2012
+[SQL: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1] ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   em NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   em NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   em NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   --- End of inner exception stack trace ---
+SqlString: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.ListIgnoreQueryCache(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.List(ISessionImplementor session, QueryParameters queryParameters, ISet`1 querySpaces, IType[] resultTypes)
+   em NHibernate.Impl.SessionImpl.ListCustomQuery(ICustomQuery customQuery, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters)
+   em NHibernate.Impl.SqlQueryImpl.List()
+   em NHibernate.Impl.AbstractQueryImpl.UniqueResult[T]()
+   em SistemaVendas.Negocio.RelatorioVendas.ObterVendaAnualVendedor(Int32 idVendedor, Int32 ano) na C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\negocio\RelatorioVendas.cs:linha 22
+   em TestProject1.Testes.TesteRelatorioDeVenda.teste_consulta_vendedor_duas_ou_mais_vendas_ano() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs:linha 55</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="80d1f33d-3cbf-4014-b490-bc08282fa78b" testId="31326566-3431-3439-6631-326662393032" testName="teste_consulta_vendedor_inexistente" computerName="CFC-WINDOWS" duration="00:00:00.0460000" startTime="2014-10-25T14:14:33.0197367-02:00" endTime="2014-10-25T14:14:33.0697368-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="80d1f33d-3cbf-4014-b490-bc08282fa78b">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 0 [Type: Int32 (0)], @p1 = 2011 [Type: Int32 (0)]</StdOut>
+        <ErrorInfo>
+          <Message>Execute
+NHibernate.Exceptions.GenericADOException: could not execute query
+[ select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1 ]
+  Name:idVendedor - Value:0  Name:ano - Value:2011
+[SQL: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1] ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   em NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   em NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   em NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   --- End of inner exception stack trace ---
+SqlString: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.ListIgnoreQueryCache(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.List(ISessionImplementor session, QueryParameters queryParameters, ISet`1 querySpaces, IType[] resultTypes)
+   em NHibernate.Impl.SessionImpl.ListCustomQuery(ICustomQuery customQuery, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters)
+   em NHibernate.Impl.SqlQueryImpl.List()
+   em NHibernate.Impl.AbstractQueryImpl.UniqueResult[T]()
+   em SistemaVendas.Negocio.RelatorioVendas.ObterVendaAnualVendedor(Int32 idVendedor, Int32 ano) na C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\negocio\RelatorioVendas.cs:linha 22
+   em TestProject1.Testes.TesteRelatorioDeVenda.teste_consulta_vendedor_inexistente() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs:linha 32</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="162d746f-0173-45aa-a4c7-df067638eeb5" testId="31343639-6235-3730-3937-313936373661" testName="EstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0780000" startTime="2014-10-25T14:14:32.5697361-02:00" endTime="2014-10-25T14:14:32.6397362-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="162d746f-0173-45aa-a4c7-df067638eeb5">
+      <Output>
+        <StdOut>NHibernate: select NextHi from ProdutoId with (updlock, rowlock)
+NHibernate: update ProdutoId set NextHi = @p0 where NextHi = @p1;@p0 = 11 [Type: Int32 (0)], @p1 = 10 [Type: Int32 (0)]
+NHibernate: INSERT INTO [Produto] (Nome, Id) VALUES (@p0, @p1);@p0 = 'um' [Type: String (4000)], @p1 = 30 [Type: Int32 (0)]
+NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 30 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="ede97f6f-ff79-4de6-bb22-a4b95403d03c" testId="37323835-3766-6239-3332-343736356265" testName="teste_consulta_vendedor_vendas_em_mais_de_1_ano" computerName="CFC-WINDOWS" duration="00:00:00.0410000" startTime="2014-10-25T14:14:33.0797368-02:00" endTime="2014-10-25T14:14:33.1297368-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ede97f6f-ff79-4de6-bb22-a4b95403d03c">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 3 [Type: Int32 (0)], @p1 = 2013 [Type: Int32 (0)]</StdOut>
+        <ErrorInfo>
+          <Message>Execute
+NHibernate.Exceptions.GenericADOException: could not execute query
+[ select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1 ]
+  Name:idVendedor - Value:3  Name:ano - Value:2013
+[SQL: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1] ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   em NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   em NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   em NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   --- End of inner exception stack trace ---
+SqlString: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.ListIgnoreQueryCache(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.List(ISessionImplementor session, QueryParameters queryParameters, ISet`1 querySpaces, IType[] resultTypes)
+   em NHibernate.Impl.SessionImpl.ListCustomQuery(ICustomQuery customQuery, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters)
+   em NHibernate.Impl.SqlQueryImpl.List()
+   em NHibernate.Impl.AbstractQueryImpl.UniqueResult[T]()
+   em SistemaVendas.Negocio.RelatorioVendas.ObterVendaAnualVendedor(Int32 idVendedor, Int32 ano) na C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\negocio\RelatorioVendas.cs:linha 22
+   em TestProject1.Testes.TesteRelatorioDeVenda.teste_consulta_vendedor_vendas_em_mais_de_1_ano() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs:linha 67</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="52a1c9c0-6316-45ef-b13d-c31ae2bc43d6" testId="37643634-3766-3465-3032-323030653834" testName="NaoEhIgualAZero" computerName="CFC-WINDOWS" duration="00:00:00.0380000" startTime="2014-10-25T14:14:32.6497362-02:00" endTime="2014-10-25T14:14:32.6797362-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52a1c9c0-6316-45ef-b13d-c31ae2bc43d6">
+      <Output>
+        <StdOut>NHibernate: INSERT INTO [Produto] (Nome, Id) VALUES (@p0, @p1);@p0 = 'um' [Type: String (4000)], @p1 = 31 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="37ae8464-8c2a-4fb0-b077-a2f692a17082" testId="39386662-3636-6465-3762-646138656239" testName="NaoEstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0760000" startTime="2014-10-25T14:14:32.4897359-02:00" endTime="2014-10-25T14:14:32.5597360-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="37ae8464-8c2a-4fb0-b077-a2f692a17082">
+      <Output>
+        <StdOut>NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]
+NHibernate: DELETE FROM [Produto] WHERE Id = @p0;@p0 = 1 [Type: Int32 (0)]
+NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="41dcfbdb-d6ca-4e86-8339-79ae981ac1f8" testId="61636461-3738-6433-3132-383331313434" testName="TemNomeCorreto" computerName="CFC-WINDOWS" duration="00:00:00.0700000" startTime="2014-10-25T14:14:32.4097358-02:00" endTime="2014-10-25T14:14:32.4797359-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="41dcfbdb-d6ca-4e86-8339-79ae981ac1f8">
+      <Output>
+        <StdOut>NHibernate: SELECT produto0_.Id as Id0_0_, produto0_.Nome as Nome0_0_ FROM [Produto] produto0_ WHERE produto0_.Id=@p0;@p0 = 1 [Type: Int32 (0)]</StdOut>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="562a63b4-b24a-4d74-add9-ce84f7c0575c" testId="65633635-3633-3536-3937-313163643339" testName="teste_consulta_vendedor_com_uma_venda" computerName="CFC-WINDOWS" duration="00:00:00.1770000" startTime="2014-10-25T14:14:32.6997362-02:00" endTime="2014-10-25T14:14:32.9297366-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="562a63b4-b24a-4d74-add9-ce84f7c0575c">
+      <Output>
+        <StdOut>NHibernate: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1;@p0 = 1 [Type: Int32 (0)], @p1 = 2011 [Type: Int32 (0)]</StdOut>
+        <ErrorInfo>
+          <Message>Execute
+NHibernate.Exceptions.GenericADOException: could not execute query
+[ select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1 ]
+  Name:idVendedor - Value:1  Name:ano - Value:2011
+[SQL: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1] ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader()
+   em NHibernate.AdoNet.AbstractBatcher.ExecuteReader(IDbCommand cmd)
+   em NHibernate.Loader.Loader.GetResultSet(IDbCommand st, Boolean autoDiscoverTypes, Boolean callable, RowSelection selection, ISessionImplementor session)
+   em NHibernate.Loader.Loader.DoQuery(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoQueryAndInitializeNonLazyCollections(ISessionImplementor session, QueryParameters queryParameters, Boolean returnProxies)
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   --- End of inner exception stack trace ---
+SqlString: select sum(v.valor)  from venda v where v.IdVendedor = @p0 and year(v.datavenda) = @p1
+   em NHibernate.Loader.Loader.DoList(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.ListIgnoreQueryCache(ISessionImplementor session, QueryParameters queryParameters)
+   em NHibernate.Loader.Loader.List(ISessionImplementor session, QueryParameters queryParameters, ISet`1 querySpaces, IType[] resultTypes)
+   em NHibernate.Impl.SessionImpl.ListCustomQuery(ICustomQuery customQuery, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters, IList results)
+   em NHibernate.Impl.SessionImpl.List(NativeSQLQuerySpecification spec, QueryParameters queryParameters)
+   em NHibernate.Impl.SqlQueryImpl.List()
+   em NHibernate.Impl.AbstractQueryImpl.UniqueResult[T]()
+   em SistemaVendas.Negocio.RelatorioVendas.ObterVendaAnualVendedor(Int32 idVendedor, Int32 ano) na C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\negocio\RelatorioVendas.cs:linha 22
+   em TestProject1.Testes.TesteRelatorioDeVenda.teste_consulta_vendedor_com_uma_venda() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs:linha 44</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+  </Results>
+</TestRun>

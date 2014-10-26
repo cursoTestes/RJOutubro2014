@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="cb4f585c-a3cb-456b-8438-ec3caa75e13e" name="cfc@CFC-WINDOWS 2014-10-25 14:11:49" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="0174468b-4797-42d5-9aab-e6c9eb9053fd">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2014-10-25 14_11_49">
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Windsor.2.5.4\lib\net40\Castle.Windsor.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Castle.3.1.0.4000\lib\Net35\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Newtonsoft.Json.4.0.4\lib\net40\Newtonsoft.Json.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Facilities.NHibernateIntegration.1.1.0\lib\NET40\Castle.Facilities.NHibernateIntegration.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.SqlClient.1.6.8.0\lib\Net35\NDbUnit.SqlClient.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\FluentNHibernate.1.2.0.712\lib\FluentNHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\DotNetZip.1.9.1.8\lib\net20\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Core.2.5.2\lib\NET35\Castle.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.3.1.0.4000\lib\Net35\NHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.Support.2.17.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.Core.1.6.8.0\lib\Net35\NDbUnit.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Services.Transaction.2.5.0\lib\NET40\Castle.Services.Transaction.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.Mvc.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Linq.1.0\lib\NHibernate.Linq.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.WebDriver.2.17.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\log4net.1.2.11\lib\net40-full\log4net.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-10-25T14:11:49.5302262-02:00" queuing="2014-10-25T14:11:50.3259913-02:00" start="2014-10-25T14:11:50.3659919-02:00" finish="2014-10-25T14:11:53.9447890-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="9" executed="9" error="0" failed="9" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <GallioTestElement name="NaoEstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="39386662-3636-6465-3762-646138656239" d3p1:Gallio.TestId="bf8966ed7bda8eb9" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteExclusaoProduto" d3p1:Gallio.MemberName="NaoEstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteExclusaoProduto.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="184f4176-b753-41a2-9739-fd12bcc2febd" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="TemNomeCorreto" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="61636461-3738-6433-3132-383331313434" d3p1:Gallio.TestId="adca873d12831144" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="TemNomeCorreto" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="34" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="44b1554d-1797-4eea-949d-14ec884a158b" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="NaoEhIgualAZero" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="37643634-3766-3465-3032-323030653834" d3p1:Gallio.TestId="46d7f7e402200e84" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="NaoEhIgualAZero" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="42" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="0f31acbe-5782-4acd-98f5-3c222c2f900a" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_inexistente" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31326566-3431-3439-6631-326662393032" d3p1:Gallio.TestId="fe211494f12fb902" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_inexistente" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="27" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="c1714669-da14-4742-a925-f4f8ac6f896b" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_vendas_em_mais_de_1_ano" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="37323835-3766-6239-3332-343736356265" d3p1:Gallio.TestId="5827f79b324765be" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_vendas_em_mais_de_1_ano" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="62" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="90af0f11-e13c-4284-9eaa-dfca34a9c837" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="ExisteNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="30393466-6234-6238-3934-393137663466" d3p1:Gallio.TestId="f4904b8b94917f4f" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="ExisteNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="24" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="76354166-1e61-4b6d-8078-765dbc804ff6" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_duas_ou_mais_vendas_ano" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="30396361-3233-3436-6130-306463636639" d3p1:Gallio.TestId="ac903264a00dccf9" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_duas_ou_mais_vendas_ano" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="50" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="9f5c5464-3222-4791-b4a5-4d441f643465" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_com_uma_venda" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="65633635-3633-3536-3937-313163643339" d3p1:Gallio.TestId="56ce36659711cd39" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_com_uma_venda" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="d4fd1f95-34c6-40a8-93f0-9abe14fba509" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="EstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31343639-6235-3730-3937-313936373661" d3p1:Gallio.TestId="96415b079719676a" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="EstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="48" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="fc9c5342-bc5c-4ce0-b087-927d479dead3" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="30393466-6234-6238-3934-393137663466" executionId="76354166-1e61-4b6d-8078-765dbc804ff6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30396361-3233-3436-6130-306463636639" executionId="9f5c5464-3222-4791-b4a5-4d441f643465" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31326566-3431-3439-6631-326662393032" executionId="c1714669-da14-4742-a925-f4f8ac6f896b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31343639-6235-3730-3937-313936373661" executionId="fc9c5342-bc5c-4ce0-b087-927d479dead3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37323835-3766-6239-3332-343736356265" executionId="90af0f11-e13c-4284-9eaa-dfca34a9c837" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37643634-3766-3465-3032-323030653834" executionId="0f31acbe-5782-4acd-98f5-3c222c2f900a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39386662-3636-6465-3762-646138656239" executionId="184f4176-b753-41a2-9739-fd12bcc2febd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61636461-3738-6433-3132-383331313434" executionId="44b1554d-1797-4eea-949d-14ec884a158b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65633635-3633-3536-3937-313163643339" executionId="d4fd1f95-34c6-40a8-93f0-9abe14fba509" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <GallioTestResult executionId="76354166-1e61-4b6d-8078-765dbc804ff6" testId="30393466-6234-6238-3934-393137663466" testName="ExisteNoBD" computerName="CFC-WINDOWS" duration="00:00:00.3490000" startTime="2014-10-25T14:11:53.0085246-02:00" endTime="2014-10-25T14:11:53.3947806-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="76354166-1e61-4b6d-8078-765dbc804ff6">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="9f5c5464-3222-4791-b4a5-4d441f643465" testId="30396361-3233-3436-6130-306463636639" testName="teste_consulta_vendedor_duas_ou_mais_vendas_ano" computerName="CFC-WINDOWS" duration="00:00:00.0190000" startTime="2014-10-25T14:11:53.7335358-02:00" endTime="2014-10-25T14:11:53.7810365-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9f5c5464-3222-4791-b4a5-4d441f643465">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="c1714669-da14-4742-a925-f4f8ac6f896b" testId="31326566-3431-3439-6631-326662393032" testName="teste_consulta_vendedor_inexistente" computerName="CFC-WINDOWS" duration="00:00:00.0210000" startTime="2014-10-25T14:11:53.7897866-02:00" endTime="2014-10-25T14:11:53.8335373-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1714669-da14-4742-a925-f4f8ac6f896b">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="fc9c5342-bc5c-4ce0-b087-927d479dead3" testId="31343639-6235-3730-3937-313936373661" testName="EstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0200000" startTime="2014-10-25T14:11:53.5497830-02:00" endTime="2014-10-25T14:11:53.6060338-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc9c5342-bc5c-4ce0-b087-927d479dead3">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="90af0f11-e13c-4284-9eaa-dfca34a9c837" testId="37323835-3766-6239-3332-343736356265" testName="teste_consulta_vendedor_vendas_em_mais_de_1_ano" computerName="CFC-WINDOWS" duration="00:00:00.0220000" startTime="2014-10-25T14:11:53.8435375-02:00" endTime="2014-10-25T14:11:53.8860381-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90af0f11-e13c-4284-9eaa-dfca34a9c837">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="0f31acbe-5782-4acd-98f5-3c222c2f900a" testId="37643634-3766-3465-3032-323030653834" testName="NaoEhIgualAZero" computerName="CFC-WINDOWS" duration="00:00:00.0190000" startTime="2014-10-25T14:11:53.6160340-02:00" endTime="2014-10-25T14:11:53.6610347-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0f31acbe-5782-4acd-98f5-3c222c2f900a">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="184f4176-b753-41a2-9739-fd12bcc2febd" testId="39386662-3636-6465-3762-646138656239" testName="NaoEstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0360000" startTime="2014-10-25T14:11:53.4822819-02:00" endTime="2014-10-25T14:11:53.5322827-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="184f4176-b753-41a2-9739-fd12bcc2febd">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="44b1554d-1797-4eea-949d-14ec884a158b" testId="61636461-3738-6433-3132-383331313434" testName="TemNomeCorreto" computerName="CFC-WINDOWS" duration="00:00:00.0200000" startTime="2014-10-25T14:11:53.4047807-02:00" endTime="2014-10-25T14:11:53.4622816-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44b1554d-1797-4eea-949d-14ec884a158b">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="d4fd1f95-34c6-40a8-93f0-9abe14fba509" testId="65633635-3633-3536-3937-313163643339" testName="teste_consulta_vendedor_com_uma_venda" computerName="CFC-WINDOWS" duration="00:00:00.0290000" startTime="2014-10-25T14:11:53.6772849-02:00" endTime="2014-10-25T14:11:53.7210356-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4fd1f95-34c6-40a8-93f0-9abe14fba509">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+NDbUnit.Core.NDbUnitException: DbCommandBuilder.CreateSelectCommand(DataSet, string) failed for tableName = 'Venda' ---&gt; System.Data.SqlClient.SqlException: Nome de coluna 'IdVendedor' inválido.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 207
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   em System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   em System.Data.SqlClient.SqlDataReader.ConsumeMetaData()
+   em System.Data.SqlClient.SqlDataReader.get_MetaData()
+   em System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   em System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   em System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   em System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   em NDbUnit.Core.DbCommandBuilder.GetSchemaTable(IDbCommand sqlSelectCommand)
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   --- End of inner exception stack trace ---
+   em NDbUnit.Core.DbCommandBuilder.CreateSelectCommand(DataSet ds, String tableName)
+   em NDbUnit.Core.DbCommandBuilder.BuildCommands(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(Stream xmlSchema)
+   em NDbUnit.Core.NDbUnitTest.ReadXmlSchema(String xmlSchemaFile)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 15
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+  </Results>
+</TestRun>

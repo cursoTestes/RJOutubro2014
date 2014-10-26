@@ -1,0 +1,5 @@
+C:\Projetos\DojoInterfaceApplication\DojoInterfaceApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\Projetos\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\Projetos\DojoInterfaceApplication\DojoInterfaceApplication\obj\Debug\DojoInterfaceApplication.dll
+C:\Projetos\DojoInterfaceApplication\DojoInterfaceApplication\obj\Debug\DojoInterfaceApplication.pdb

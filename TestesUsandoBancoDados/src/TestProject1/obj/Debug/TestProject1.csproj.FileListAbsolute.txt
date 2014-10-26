@@ -1,0 +1,468 @@
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Dados\Dados.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Dados\Schema.xsd
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Gallio.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Gallio40.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\log4net.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\MbUnit.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NHibernate.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\log4net.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\Dados\DadosBackup.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Dados\DadosBackup.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Dados\Dados.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Dados\Schema.xsd
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Gallio.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Gallio40.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\log4net.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\MbUnit.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\log4net.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Dados\DadosBackup.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Dados\Dados.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Dados\Schema.xsd
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Gallio.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Gallio40.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\log4net.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\MbUnit.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\log4net.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Gallio.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Gallio40.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Ionic.Zip.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\log4net.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\MbUnit.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\WebDriver.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\WebDriver.Support.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Ionic.Zip.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\log4net.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Newtonsoft.Json.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\WebDriver.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\WebDriver.Support.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\TestProject1.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Cenarios\DadosBackup.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Cenarios\Dados.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\TestProject1\bin\Debug\Cenarios\Schema.xsd
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\DadosBackup.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Dados.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Schema.xsd
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio40.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.xml
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.dll
+C:\Projetos\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\DadosBackup.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Dados.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Schema.xsd
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio40.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.xml
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\cfc\Documents\GitHub\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\DadosBackup.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Dados.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Schema.xsd
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio40.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.xml
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.dll
+C:\affero\GitHub\AfferoTI\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\DadosBackup.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Dados.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Schema.xsd
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio40.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.xml
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.dll
+C:\TurmaRJ\TestesRJAgo\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\DadosBackup.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Dados.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Cenarios\Schema.xsd
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll.config
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Gallio40.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\MbUnit40.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.Core.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Core.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Facilities.NHibernateIntegration.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Services.Transaction.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Castle.Windsor.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\FluentNHibernate.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Iesi.Collections.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Ionic.Zip.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\log4net.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NDbUnit.SqlClient.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHibernate.Linq.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\WebDriver.Support.xml
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\NHamcrest.pdb
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.dll
+C:\RJ\TestesUsandoBancoDados\src\TestProject1\obj\Debug\TestProject1.pdb

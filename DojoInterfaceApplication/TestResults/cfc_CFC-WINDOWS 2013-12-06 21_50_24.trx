@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="87c986c9-ca1b-4e68-a31a-bc32c2ee9f86" name="cfc@CFC-WINDOWS 2013-12-06 21:50:24" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="8f23eedf-9260-40b6-a019-43ae1824b61d">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2013-12-06 21_50_24">
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll" />
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\packages\Selenium.WebDriver.2.38.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\Sedna\DojoInterfaceApplication\packages\Selenium.Support.2.38.0\lib\net40\WebDriver.Support.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-06T21:50:24.9764149-02:00" queuing="2013-12-06T21:50:25.1356222-02:00" start="2013-12-06T21:50:25.1980224-02:00" finish="2013-12-06T21:50:31.8839687-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Retorna_Erro_quando_idVendedor_for_alfa" storage="c:\sedna\dojointerfaceapplication\dojointerfaceapplication.tests\bin\release\dojointerfaceapplication.tests.dll" id="4efe432a-2894-519c-3099-a424775a01c7">
+      <Execution id="a1c54731-b213-412a-924a-813c732ee111" />
+      <TestMethod codeBase="C:/Sedna/DojoInterfaceApplication/DojoInterfaceApplication.Tests/bin/Release/DojoInterfaceApplication.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SeleniumTests.TesteValidacoes, DojoInterfaceApplication.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Retorna_Erro_quando_idVendedor_for_alfa" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4efe432a-2894-519c-3099-a424775a01c7" executionId="a1c54731-b213-412a-924a-813c732ee111" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a1c54731-b213-412a-924a-813c732ee111" testId="4efe432a-2894-519c-3099-a424775a01c7" testName="Retorna_Erro_quando_idVendedor_for_alfa" computerName="CFC-WINDOWS" duration="00:00:06.1571521" startTime="2013-12-06T21:50:25.2136224-02:00" endTime="2013-12-06T21:50:31.8683686-02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a1c54731-b213-412a-924a-813c732ee111">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method SeleniumTests.TesteValidacoes.Retorna_Erro_quando_idVendedor_for_alfa threw exception: 
+OpenQA.Selenium.NoSuchElementException: no such element
+  (Session info: chrome=31.0.1650.63)
+  (Driver info: chromedriver=2.7.236900,platform=Windows NT 6.1 x86)</Message>
+          <StackTrace>    em OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElementById(String id)
+   em OpenQA.Selenium.By.&lt;&gt;c__DisplayClass2.&lt;Id&gt;b__0(ISearchContext context)
+   em OpenQA.Selenium.By.FindElement(ISearchContext context)
+   em OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   em SeleniumTests.TesteValidacoes.Retorna_Erro_quando_idVendedor_for_alfa() na C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication.Tests\TesteValidacoes.cs:linha 30
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

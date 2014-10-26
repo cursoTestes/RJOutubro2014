@@ -1,0 +1,35 @@
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\ResolveAssemblyReference.cache
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.dll
+C:\z_px_Projects\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.pdb
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\ResolveAssemblyReference.cache
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.dll
+C:\TurmaMaio\CodigoVindoDoGit\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.pdb
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\ResolveAssemblyReference.cache
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.dll
+C:\affero\GitHub\AfferoTI\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.pdb
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\ResolveAssemblyReference.cache
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.dll
+C:\mellon\github\Turma1Mellon\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.pdb
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.dll
+C:\Sedna\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.pdb
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\ResolveAssemblyReference.cache
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.dll
+C:\TurmasTestes\PrimeiroDia - Preparado para comecar\Net\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.pdb
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.dll
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication\bin\DojoInterfaceApplication.pdb
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\ResolveAssemblyReference.cache
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.dll
+C:\RJ\DojoInterfaceApplication\DojoInterfaceApplication\obj\Release\DojoInterfaceApplication.pdb

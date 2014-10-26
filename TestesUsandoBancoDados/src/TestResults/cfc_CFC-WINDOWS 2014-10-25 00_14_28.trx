@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="195925bc-78a3-4553-b8f3-076e205433fd" name="cfc@CFC-WINDOWS 2014-10-25 00:14:28" runUser="cfc-windows\cfc" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="5b24c36b-a9c8-4947-b4a0-1000b359f2f4">
+    <Deployment runDeploymentRoot="cfc_CFC-WINDOWS 2014-10-25 00_14_28">
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Windsor.2.5.4\lib\net40\Castle.Windsor.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Castle.3.1.0.4000\lib\Net35\NHibernate.ByteCode.Castle.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Newtonsoft.Json.4.0.4\lib\net40\Newtonsoft.Json.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Facilities.NHibernateIntegration.1.1.0\lib\NET40\Castle.Facilities.NHibernateIntegration.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.SqlClient.1.6.8.0\lib\Net35\NDbUnit.SqlClient.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\FluentNHibernate.1.2.0.712\lib\FluentNHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\DotNetZip.1.9.1.8\lib\net20\Ionic.Zip.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Core.2.5.2\lib\NET35\Castle.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.3.1.0.4000\lib\Net35\NHibernate.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Iesi.Collections.3.2.0.4000\lib\Net35\Iesi.Collections.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.Support.2.17.0\lib\net40\WebDriver.Support.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NDbUnit.Core.1.6.8.0\lib\Net35\NDbUnit.Core.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Castle.Services.Transaction.2.5.0\lib\NET40\Castle.Services.Transaction.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.Mvc.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\MbUnit.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\SharpTestsEx.1.1.1\lib\SharpTestsEx.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\NHibernate.Linq.1.0\lib\NHibernate.Linq.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\mbunit.3.3.454.0\lib\net40\Gallio40.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\Selenium.WebDriver.2.17.0\lib\net40\WebDriver.dll" />
+      <DeploymentItem filename="C:\RJ\TestesUsandoBancoDados\src\packages\log4net.1.2.11\lib\net40-full\log4net.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-10-25T00:14:28.1768098-02:00" queuing="2014-10-25T00:14:29.4248120-02:00" start="2014-10-25T00:14:29.5028121-02:00" finish="2014-10-25T00:14:33.0554328-02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" error="0" failed="6" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <GallioTestElement name="NaoEstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="39386662-3636-6465-3762-646138656239" d3p1:Gallio.TestId="bf8966ed7bda8eb9" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteExclusaoProduto" d3p1:Gallio.MemberName="NaoEstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteExclusaoProduto.cs" d3p1:Gallio.Line="39" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="699559b5-3290-404b-ba6d-c54ee659562d" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="TemNomeCorreto" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="61636461-3738-6433-3132-383331313434" d3p1:Gallio.TestId="adca873d12831144" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="TemNomeCorreto" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="34" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="9e6c6d53-1ded-401f-b4b9-7cbaeb1da015" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="teste_consulta_vendedor_inexistente" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31326566-3431-3439-6631-326662393032" d3p1:Gallio.TestId="fe211494f12fb902" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteRelatorioDeVenda" d3p1:Gallio.MemberName="teste_consulta_vendedor_inexistente" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteRelatorioDeVenda.cs" d3p1:Gallio.Line="26" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="31d50757-13b6-42a6-9b43-09a26b59732f" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="ExisteNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="30393466-6234-6238-3934-393137663466" d3p1:Gallio.TestId="f4904b8b94917f4f" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteConsultaProduto" d3p1:Gallio.MemberName="ExisteNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteConsultaProduto.cs" d3p1:Gallio.Line="24" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="e7babbc3-f2b8-4921-bb7e-5e1a848b1bea" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="NaoEhIgualAZero" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="37643634-3766-3465-3032-323030653834" d3p1:Gallio.TestId="46d7f7e402200e84" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="NaoEhIgualAZero" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="42" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="7886a7c7-ac57-48bc-bbad-a69dd7c3779e" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+    <GallioTestElement name="EstaNoBD" storage="C:\RJ\TestesUsandoBancoDados\src\TestProject1\bin\Debug\TestProject1.dll" id="31343639-6235-3730-3937-313936373661" d3p1:Gallio.TestId="96415b079719676a" d3p1:Gallio.AssemblyName="TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" d3p1:Gallio.NamespaceName="TestProject1.Testes" d3p1:Gallio.TypeName="TestProject1.Testes.TesteInclusaoProduto" d3p1:Gallio.MemberName="EstaNoBD" d3p1:Gallio.ParameterName="" d3p1:Gallio.Path="C:\RJ\TestesUsandoBancoDados\src\TestProject1\Testes\TesteInclusaoProduto.cs" d3p1:Gallio.Line="48" d3p1:Gallio.Column="0" xmlns:d3p1="http://www.gallio.org/">
+      <Execution id="1244dd2f-70b2-4c5a-8c9e-17bc5fcf2cbf" />
+      <Properties>
+        <Property>
+          <Key>TestKind</Key>
+          <Value>Test</Value>
+        </Property>
+      </Properties>
+    </GallioTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="30393466-6234-6238-3934-393137663466" executionId="e7babbc3-f2b8-4921-bb7e-5e1a848b1bea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31326566-3431-3439-6631-326662393032" executionId="31d50757-13b6-42a6-9b43-09a26b59732f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31343639-6235-3730-3937-313936373661" executionId="1244dd2f-70b2-4c5a-8c9e-17bc5fcf2cbf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37643634-3766-3465-3032-323030653834" executionId="7886a7c7-ac57-48bc-bbad-a69dd7c3779e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39386662-3636-6465-3762-646138656239" executionId="699559b5-3290-404b-ba6d-c54ee659562d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="61636461-3738-6433-3132-383331313434" executionId="9e6c6d53-1ded-401f-b4b9-7cbaeb1da015" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <GallioTestResult executionId="e7babbc3-f2b8-4921-bb7e-5e1a848b1bea" testId="30393466-6234-6238-3934-393137663466" testName="ExisteNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0940000" startTime="2014-10-25T00:14:32.4470317-02:00" endTime="2014-10-25T00:14:32.5874320-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7babbc3-f2b8-4921-bb7e-5e1a848b1bea">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+System.Data.SqlClient.SqlException: Não é possível inserir um valor explícito para a coluna de identidade na tabela 'Venda' quando IDENTITY_INSERT está definido como OFF.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 544
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatusErrors(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatus(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   em NDbUnit.Core.DbOperation.OnInsertIdentity(DataTable dataTable, IDbCommand dbCommand, IDbTransaction dbTransaction)
+   em NDbUnit.Core.DbOperation.insertRecursive(DataSet ds, DataTable dataTableSchema, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Hashtable insertedTableColl, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.insertCommon(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.InsertIdentity(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction)
+   em NDbUnit.Core.NDbUnitTest.PerformDbOperation(DbOperationFlag dbOperationFlag)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 17
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="31d50757-13b6-42a6-9b43-09a26b59732f" testId="31326566-3431-3439-6631-326662393032" testName="teste_consulta_vendedor_inexistente" computerName="CFC-WINDOWS" duration="00:00:00.0260000" startTime="2014-10-25T00:14:32.9618326-02:00" endTime="2014-10-25T00:14:32.9930327-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="31d50757-13b6-42a6-9b43-09a26b59732f">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+System.Data.SqlClient.SqlException: Não é possível inserir um valor explícito para a coluna de identidade na tabela 'Venda' quando IDENTITY_INSERT está definido como OFF.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 544
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatusErrors(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatus(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   em NDbUnit.Core.DbOperation.OnInsertIdentity(DataTable dataTable, IDbCommand dbCommand, IDbTransaction dbTransaction)
+   em NDbUnit.Core.DbOperation.insertRecursive(DataSet ds, DataTable dataTableSchema, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Hashtable insertedTableColl, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.insertCommon(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.InsertIdentity(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction)
+   em NDbUnit.Core.NDbUnitTest.PerformDbOperation(DbOperationFlag dbOperationFlag)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 17
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="1244dd2f-70b2-4c5a-8c9e-17bc5fcf2cbf" testId="31343639-6235-3730-3937-313936373661" testName="EstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0230000" startTime="2014-10-25T00:14:32.7902323-02:00" endTime="2014-10-25T00:14:32.8370324-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1244dd2f-70b2-4c5a-8c9e-17bc5fcf2cbf">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+System.Data.SqlClient.SqlException: Não é possível inserir um valor explícito para a coluna de identidade na tabela 'Venda' quando IDENTITY_INSERT está definido como OFF.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 544
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatusErrors(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatus(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   em NDbUnit.Core.DbOperation.OnInsertIdentity(DataTable dataTable, IDbCommand dbCommand, IDbTransaction dbTransaction)
+   em NDbUnit.Core.DbOperation.insertRecursive(DataSet ds, DataTable dataTableSchema, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Hashtable insertedTableColl, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.insertCommon(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.InsertIdentity(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction)
+   em NDbUnit.Core.NDbUnitTest.PerformDbOperation(DbOperationFlag dbOperationFlag)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 17
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="7886a7c7-ac57-48bc-bbad-a69dd7c3779e" testId="37643634-3766-3465-3032-323030653834" testName="NaoEhIgualAZero" computerName="CFC-WINDOWS" duration="00:00:00.0270000" startTime="2014-10-25T00:14:32.8994325-02:00" endTime="2014-10-25T00:14:32.9462326-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7886a7c7-ac57-48bc-bbad-a69dd7c3779e">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+System.Data.SqlClient.SqlException: Não é possível inserir um valor explícito para a coluna de identidade na tabela 'Venda' quando IDENTITY_INSERT está definido como OFF.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 544
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatusErrors(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatus(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   em NDbUnit.Core.DbOperation.OnInsertIdentity(DataTable dataTable, IDbCommand dbCommand, IDbTransaction dbTransaction)
+   em NDbUnit.Core.DbOperation.insertRecursive(DataSet ds, DataTable dataTableSchema, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Hashtable insertedTableColl, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.insertCommon(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.InsertIdentity(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction)
+   em NDbUnit.Core.NDbUnitTest.PerformDbOperation(DbOperationFlag dbOperationFlag)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 17
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="699559b5-3290-404b-ba6d-c54ee659562d" testId="39386662-3636-6465-3762-646138656239" testName="NaoEstaNoBD" computerName="CFC-WINDOWS" duration="00:00:00.0240000" startTime="2014-10-25T00:14:32.7434323-02:00" endTime="2014-10-25T00:14:32.7746323-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="699559b5-3290-404b-ba6d-c54ee659562d">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+System.Data.SqlClient.SqlException: Não é possível inserir um valor explícito para a coluna de identidade na tabela 'Venda' quando IDENTITY_INSERT está definido como OFF.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 544
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatusErrors(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatus(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   em NDbUnit.Core.DbOperation.OnInsertIdentity(DataTable dataTable, IDbCommand dbCommand, IDbTransaction dbTransaction)
+   em NDbUnit.Core.DbOperation.insertRecursive(DataSet ds, DataTable dataTableSchema, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Hashtable insertedTableColl, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.insertCommon(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.InsertIdentity(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction)
+   em NDbUnit.Core.NDbUnitTest.PerformDbOperation(DbOperationFlag dbOperationFlag)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 17
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+    <GallioTestResult executionId="9e6c6d53-1ded-401f-b4b9-7cbaeb1da015" testId="61636461-3738-6433-3132-383331313434" testName="TemNomeCorreto" computerName="CFC-WINDOWS" duration="00:00:00.0230000" startTime="2014-10-25T00:14:32.6810321-02:00" endTime="2014-10-25T00:14:32.7278322-02:00" testType="f3589083-259c-4054-87f7-75cdad4b08e5" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e6c6d53-1ded-401f-b4b9-7cbaeb1da015">
+      <Output>
+        <ErrorInfo>
+          <Message>Set Up
+System.Data.SqlClient.SqlException: Não é possível inserir um valor explícito para a coluna de identidade na tabela 'Venda' quando IDENTITY_INSERT está definido como OFF.
+Errors: System.Data.SqlClient.SqlErrorCollection
+Class: 16
+LineNumber: 1
+Number: 544
+Procedure: 
+Server: .\sqlexpress
+State: 1
+ErrorCode: -2146232060
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatusErrors(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.UpdatedRowStatus(RowUpdatedEventArgs rowUpdatedEvent, BatchCommandInfo[] batchCommands, Int32 commandCount)
+   em System.Data.Common.DbDataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   em System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   em NDbUnit.Core.DbOperation.OnInsertIdentity(DataTable dataTable, IDbCommand dbCommand, IDbTransaction dbTransaction)
+   em NDbUnit.Core.DbOperation.insertRecursive(DataSet ds, DataTable dataTableSchema, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Hashtable insertedTableColl, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.insertCommon(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction, Boolean insertIdentity)
+   em NDbUnit.Core.DbOperation.InsertIdentity(DataSet ds, IDbCommandBuilder dbCommandBuilder, IDbTransaction dbTransaction)
+   em NDbUnit.Core.NDbUnitTest.PerformDbOperation(DbOperationFlag dbOperationFlag)
+   em TestProject1.OperacoesDeTestes.CarregarBancoDeDados(String esquema, String dados) na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\OperacoesDeTestes.cs:linha 17
+   em TestProject1.TesteBase.TestInitialize() na C:\RJ\TestesUsandoBancoDados\src\TestProject1\infraTestes\TesteBase.cs:linha 12</Message>
+        </ErrorInfo>
+      </Output>
+    </GallioTestResult>
+  </Results>
+</TestRun>

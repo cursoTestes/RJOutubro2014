@@ -1,0 +1,88 @@
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\Castle.Core.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\FluentNHibernate.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\Iesi.Collections.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\NHibernate.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\NHibernate.Linq.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\Castle.Core.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\FluentNHibernate.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\Iesi.Collections.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\NHibernate.Linq.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\SharpTestsEx.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\SharpTestsEx.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\SharpTestsEx.xml
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Users\cfc\Desktop\projetos em .net\giggio-blog_testesopensource-2ae8c6692998\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Castle.Core.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\FluentNHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Iesi.Collections.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.Linq.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Castle.Core.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\FluentNHibernate.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Iesi.Collections.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.Linq.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Castle.Core.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\FluentNHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Iesi.Collections.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.Linq.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Castle.Core.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\FluentNHibernate.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Iesi.Collections.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.Linq.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\cfc\Documents\Visual Studio 2010\Projects - Cópia\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Castle.Core.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\FluentNHibernate.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Iesi.Collections.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.Linq.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Castle.Core.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\FluentNHibernate.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\Iesi.Collections.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\NHibernate.Linq.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.pdb
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\bin\Debug\SharpTestsEx.Mvc.xml
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Projetos\ProjetoOpenSourceDBUnit\src\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
